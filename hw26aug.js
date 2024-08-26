@@ -7,7 +7,7 @@ function sorteazaAlfabetic() {
     console.log(`Lista initiala a fost sortata in ordine alfabetica: ${listaCumparaturi}.`);
     return;
 }
-//sorteazaAlfabetic(); 
+
 
 //2
 function cautaProdus(produs) {
@@ -22,7 +22,7 @@ function cautaProdus(produs) {
         return;
     }
 }
-//cautaProdus("Cascaval"); 
+
 
 
 //3
@@ -38,7 +38,7 @@ function adaugaProdus(produs2) {
         return;
     }
 } 
-//adaugaProdus("cereale");
+
 
 
 //4
@@ -56,7 +56,7 @@ function eliminaProdus(produs3) {
         return;
     }
 }
-//eliminaProdus("suc");
+
 
 //Comenzi
 
